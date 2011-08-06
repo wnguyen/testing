@@ -11,17 +11,17 @@ This is a man page written in markdown. I hope this works.
 
 ## OPTIONS
 
-* `-a` all
-Solve all of the world's problems, not just hunger.
+* `-a`:
+    All mode. Solve all of the world's problems, not just hunger.
 
-* `-s` silent
-Don't make a big fuss about it.
+* `-s`:
+    Silent mode. Don't make a big fuss about it.
 
-* `-d` dumb
-Help the rich and poor equally.
+* `-d`:
+    Dumb mode. Help the rich and poor equally.
 
-* `-f` fresh
-Only help those that haven't been helped before.
+* `-f`:
+    Fresh mode. Only help those that haven't been helped before.
 
 ## HISTORY
 
