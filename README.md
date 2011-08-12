@@ -9,6 +9,8 @@ foo(1) -- solves world hunger
 
 This is a man page written in markdown. I hope this works.
 
+It appears to be working.
+
 ## OPTIONS
 
 * `-a`:
